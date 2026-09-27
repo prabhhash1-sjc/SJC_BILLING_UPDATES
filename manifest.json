@@ -1,11 +1,10 @@
-
 {
   "product": "SJC BILLING SOFTWARE",
-  "latest_version": "1.9.4",
-  "patch_url": "https://github.com/prabhhash1-sjc/SJC_BILLING_UPDATES/releases/download/v1.9.4/SJC_BILLING_PATCH_v1.9.4.zip",
-  "sha256": "391EECB5978DA7A631CFA9699CBDED2F3E832DA5A94630AAC170576C5CC9DE0E",
+  "latest_version": "1.9.5",
+  "patch_url": "https://github.com/prabhhash1-sjc/SJC_BILLING_UPDATES/releases/download/v1.9.5/SJC_BILLING_PATCH_v1.9.5.zip",
+  "sha256": "3F234ADAEDB8BE23822350C1FAD4AA170D92EA61ECAC10CD85A6233BF8AF1FA6",
   "channel": "stable",
-  "notes": "SJC BILLING SOFTWARE 1.9.4 stable update",
+  "notes": "SJC BILLING SOFTWARE 1.9.5 stable update",
   "approved_files": [
     "SJC_BILLING.exe",
     "assets/"
