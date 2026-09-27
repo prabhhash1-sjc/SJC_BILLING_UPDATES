@@ -1,8 +1,0 @@
-{
-  "product": "SJC BILLING SOFTWARE",
-  "latest_version": "1.9.4",
-  "patch_url": "https://github.com/prabhhash1-sjc/SJC_BILLING_UPDATES/releases/download/v1.9.4/SJC_BILLING_PATCH_V1.9.4.zip",
-  "sha256": "c9105ab54bbf017d5bad7697e2a0ba34f3a53b9e8cb245c596147c41b78eecc5",
-  "approved_files": [],
-  "notes": "SJC BILLING SOFTWARE V1.9.4: Firebase session reuse, automatic token refresh, non-blocking Google authentication, isolated Billing Firebase collections, and preserved sync/update functionality."
-}
