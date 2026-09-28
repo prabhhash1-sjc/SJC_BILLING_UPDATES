@@ -2,7 +2,7 @@
   "product": "SJC BILLING SOFTWARE",
   "latest_version": "1.9.5",
   "patch_url": "https://github.com/prabhhash1-sjc/SJC_BILLING_UPDATES/releases/download/v1.9.5/SJC_BILLING_PATCH_v1.9.5.zip",
-  "sha256": "3F234ADAEDB8BE23822350C1FAD4AA170D92EA61ECAC10CD85A6233BF8AF1FA6",
+  "sha256": "A265A10D7B04F769BEA07A33CDA7641B8BD98D924C80392055B6264CCAD4BF0F",
   "channel": "stable",
   "notes": "SJC BILLING SOFTWARE 1.9.5 stable update",
   "approved_files": [
